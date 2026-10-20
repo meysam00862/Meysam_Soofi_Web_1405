@@ -1,4 +1,4 @@
-import {controllers} from ".\02c-controllers.js";
+import {controllers} from "./02c-controllers.js";
 let command = process.argv[2];
 let input = process.argv.slice(3);
 
